@@ -1,0 +1,8 @@
+"Aliens land in Antarctica and demand to speak with world leaders."
+-fake
+"Prime Minister announces new economic reform policy aimed at boosting startups."
+-real 
+"Drinking bleach cures COVID-19, experts claim."
+-fake 
+"Government to ban all mobile phones by 2026, sources confirm."
+-fake
